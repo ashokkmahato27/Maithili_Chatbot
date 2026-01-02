@@ -1,0 +1,12 @@
+# Environment variables
+.env
+.envi
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Practice / test files
+.practice.py
+.chatingbot.ipynb
+
